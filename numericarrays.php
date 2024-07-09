@@ -1,6 +1,6 @@
 <?php
 
-// Numeric arrays
+// Numeric arrays - indexed arrays
 // Key - value pairs. In numeric - the key is the number
 
 $first_names = array("Lena", "John", "Eve", "Steve", "Mary");
